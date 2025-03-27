@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PriceTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757aba641b49040c6e3f28126a1595094e9bee45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c6b00a1221a96b828959eaa15fb01605172517")]
 [assembly: System.Reflection.AssemblyProductAttribute("PriceTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PriceTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

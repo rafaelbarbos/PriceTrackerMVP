@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj": {}
+    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj": {
+    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
         "projectName": "PriceTracker.API",
-        "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
-        "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.API\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,14 +26,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
-                "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj"
+              "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj"
               },
-              "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj"
+              "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj"
               },
-              "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
-                "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj"
+              "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj"
               }
             }
           }
@@ -92,17 +92,17 @@
         }
       }
     },
-    "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
+    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj",
         "projectName": "PriceTracker.Data",
-        "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj",
-        "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Data\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -167,17 +167,17 @@
         }
       }
     },
-    "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
+    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
         "projectName": "PriceTracker.Domain",
-        "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
-        "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Domain\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -226,17 +226,17 @@
         }
       }
     },
-    "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
+    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
         "projectName": "PriceTracker.Services",
-        "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
-        "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\API-MONITORAMENTO-DE-PRECOS\\PriceTrackerMVP\\src\\PriceTracker.Services\\obj\\",
+        "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
