@@ -2938,19 +2938,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafae\\.nuget\\packages\\": {}
+    "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
+      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
       "projectName": "PriceTracker.Services",
-      "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
-      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\src\\PriceTracker.Services\\obj\\",
+      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj",
+      "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

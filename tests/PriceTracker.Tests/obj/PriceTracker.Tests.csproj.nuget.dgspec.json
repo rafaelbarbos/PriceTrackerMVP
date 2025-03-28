@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj": {}
+    "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj": {
+    "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
         "projectName": "PriceTracker.Tests",
-        "projectPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
-        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\Desktop\\PriceTrackerMVP\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\obj\\",
+        "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
+        "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

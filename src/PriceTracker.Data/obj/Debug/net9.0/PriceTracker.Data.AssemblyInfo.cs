@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PriceTracker.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde6b93a20f7dab3b0421e0402883491f42d67f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07ad263b9d2a40f5845d7a7c5c196028fdeeeea2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PriceTracker.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PriceTracker.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
