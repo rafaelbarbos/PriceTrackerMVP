@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvp/b0cO5T0=",
+  "dgSpecHash": "PMKK9P+vExQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
+  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.API\\PriceTracker.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

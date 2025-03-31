@@ -1,0 +1,13 @@
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\bin\Debug\net9.0\PriceTracker.Services.deps.json
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\bin\Debug\net9.0\PriceTracker.Services.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\bin\Debug\net9.0\PriceTracker.Services.pdb
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.csproj.AssemblyReference.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.AssemblyInfoInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.AssemblyInfo.cs
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.csproj.CoreCompileInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.sourcelink.json
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\refint\PriceTracker.Services.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\PriceTracker.Services.pdb
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Services\obj\Debug\net9.0\ref\PriceTracker.Services.dll

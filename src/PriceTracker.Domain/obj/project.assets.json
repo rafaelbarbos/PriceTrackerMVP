@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
       "projectName": "PriceTracker.Domain",
-      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
+      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
       "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\obj\\",
+      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"

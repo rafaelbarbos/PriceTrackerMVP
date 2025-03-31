@@ -4198,11 +4198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
       "projectName": "PriceTracker.Tests",
-      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
+      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
       "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\obj\\",
+      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\tests\\PriceTracker.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"

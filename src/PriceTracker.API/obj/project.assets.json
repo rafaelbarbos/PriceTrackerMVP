@@ -2630,7 +2630,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
-          "Microsoft.EntityFrameworkCore.Sqlite": "9.0.3"
+          "Microsoft.EntityFrameworkCore.Sqlite": "9.0.3",
+          "PriceTracker.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PriceTracker.Data.dll": {}
@@ -8118,11 +8119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
+      "projectUniqueName": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.API\\PriceTracker.API.csproj",
       "projectName": "PriceTracker.API",
-      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.API\\PriceTracker.API.csproj",
+      "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.API\\PriceTracker.API.csproj",
       "packagesPath": "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.API\\obj\\",
+      "outputPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RafaelBarbosadaSilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8137,14 +8138,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
-              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Data\\PriceTracker.Data.csproj"
+            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Data\\PriceTracker.Data.csproj": {
+              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Data\\PriceTracker.Data.csproj"
             },
-            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
-              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj"
+            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj": {
+              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj"
             },
-            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
-              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Services\\PriceTracker.Services.csproj"
+            "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Services\\PriceTracker.Services.csproj": {
+              "projectPath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Services\\PriceTracker.Services.csproj"
             }
           }
         }

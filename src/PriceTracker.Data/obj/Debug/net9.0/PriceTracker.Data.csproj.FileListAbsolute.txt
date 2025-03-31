@@ -1,0 +1,6 @@
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.csproj.AssemblyReference.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.AssemblyInfoInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.AssemblyInfo.cs
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Data\obj\Debug\net9.0\PriceTracker.Data.sourcelink.json

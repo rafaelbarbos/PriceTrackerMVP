@@ -1,0 +1,12 @@
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\bin\Debug\net9.0\PriceTracker.Domain.deps.json
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\bin\Debug\net9.0\PriceTracker.Domain.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\bin\Debug\net9.0\PriceTracker.Domain.pdb
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.AssemblyInfo.cs
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.sourcelink.json
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\refint\PriceTracker.Domain.dll
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\PriceTracker.Domain.pdb
+C:\Users\RafaelBarbosadaSilva\PriceTrackerMVP-1\src\PriceTracker.Domain\obj\Debug\net9.0\ref\PriceTracker.Domain.dll

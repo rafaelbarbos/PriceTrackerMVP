@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcoWTfVTwr0=",
+  "dgSpecHash": "68YCGklQyR0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
+  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\src\\PriceTracker.Domain\\PriceTracker.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dqDM0ZKJ9A=",
+  "dgSpecHash": "Y9fmbO04Z8o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
+  "projectFilePath": "C:\\Users\\RafaelBarbosadaSilva\\PriceTrackerMVP-1\\tests\\PriceTracker.Tests\\PriceTracker.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\RafaelBarbosadaSilva\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

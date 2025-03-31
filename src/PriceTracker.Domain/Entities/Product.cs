@@ -1,4 +1,5 @@
-public class Product
+namespace PriceTracker.Domain.Entities;{
+    public class Product
 {
     // Identificador único do produto
     public int Id { get; set; }
@@ -29,4 +30,5 @@ public class Product
     
     // Histórico de preços do produto
     public List<PriceHistory> PriceHistory { get; set; }
+}
 }
